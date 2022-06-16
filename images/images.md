@@ -1,8 +1,8 @@
 # This is my images folder
 
 
-.point 1
-.point 2
+- point 1
+- point 2
 
 _
 
